@@ -104,7 +104,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under  **CC BY-NC-SA 4.0** (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
